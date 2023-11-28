@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <label>PSEUDO</label>
+        <input type="text"/>
+        <label>MDP</label>
+        <input type="text"/>
         <a
           className="App-link"
           href="https://reactjs.org"
